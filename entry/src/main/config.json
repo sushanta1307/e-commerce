@@ -46,7 +46,6 @@
       {
         "pages": [
           "pages/index/index",
-          "pages/nextPage/nextPage",
           "pages/detailPage/detailPage",
           "pages/filterPage/filterPage"
         ],
